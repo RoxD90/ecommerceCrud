@@ -7,12 +7,13 @@ I want to create a product, tag, and category database using mysql. I have creat
 Walk Through Video
 https://drive.google.com/file/d/1DiQMdmMQhSJ-mnckQw8giil_2-BYf-Wm/view?usp=sharing
 
-git@github.com:RoxD90/ecommerce-crud.git
+git@github.com:RoxD90/ecommerceCrud.git
 
-https://github.com/RoxD90/ecommerce-crud
+https://github.com/RoxD90/ecommerceCrud.git
 
-https://roxd90.github.io/ecommerce-crud/
+https://github.com/RoxD90/ecommerceCrud
 
+https://roxd90.github.io/ecommerceCrud/
 
 
 
