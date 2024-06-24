@@ -5,6 +5,9 @@ I want to create a product, tag, and category database using mysql. I have creat
 
 
 Walk Through Video
+https://drive.google.com/file/d/1OPJv0a_vA2PhyzO1Hu8_npK-g45RTnBB/view
+
+
 https://drive.google.com/file/d/1DiQMdmMQhSJ-mnckQw8giil_2-BYf-Wm/view?usp=sharing
 
 git@github.com:RoxD90/ecommerceCrud.git
